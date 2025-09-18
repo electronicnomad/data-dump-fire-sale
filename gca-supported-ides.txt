@@ -1,0 +1,17 @@
+Cloud Shell
+Cloud Workstations
+Android Studio
+VS Code
+JetBrains IDEs
+CLion
+DataGrip
+GoLand
+IntelliJ IDEA Community
+IntelliJ IDEA Educational 
+IntelliJ IDEA Ultimate
+PhpStorm
+PyCharm Community
+PyCharm Professional
+Rider
+RubyMine
+WebStorm
